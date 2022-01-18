@@ -5,7 +5,7 @@ A magyar verzióban csak az effect van lefordítva.
 
 Az eredetit megtalálod [itt](https://www.gta5-mods.com/scripts/chaos-mod-v-beta).
 
-A magyar verziót megtalálod [itt](https://www.gta5-mods.com/scripts/chaos-mod-v-beta).
+A magyar verziót megtalálod [itt](https://github.com/Ratchet1/GTA-V-Chaos-Mod-Hungary/releases).
 
 # Letöltés
 ### Vanilla
