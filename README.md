@@ -1,2 +1,2 @@
-# GTA-V-Chaos-Mod-Hungary
+# GTA V Chaos Mod Hungary
 Hamarosan
