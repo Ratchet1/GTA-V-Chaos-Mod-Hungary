@@ -1,2 +1,6 @@
 # GTA V Chaos Mod Hungary
-Hamarosan
+
+A GTA V Chaos Mod magyar verziója.
+
+
+A myagyar verzióban csak az effect van lefordítva.
