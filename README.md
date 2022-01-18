@@ -16,4 +16,4 @@ Tedd a ChaosMod.asi-t és a chaosmod mappát (ne bontsd ki!) a GTA-könyvtáradb
 
 Tedd a ChaosMod.asi fájlt a FiveM/FiveM Application Data/ mappán belüli beépülő plugins mappába (ha még nincsen, hozz létre a plugins mappát).
 
-A chaosmod mappa továbbra is a normál GTA-könyvtárba kerül.
+A chaosmod mappa a GTA-könyvtárba kerül.
