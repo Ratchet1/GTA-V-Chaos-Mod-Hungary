@@ -7,6 +7,10 @@ Az eredetit megtalálod [itt](https://www.gta5-mods.com/scripts/chaos-mod-v-beta
 
 A magyar verzió letölést megtalálod [itt](https://github.com/Ratchet1/GTA-V-Chaos-Mod-Hungary/releases).
 
+[Discord:](https://discord.gg/wkSyupYNYh) https://discord.gg/wkSyupYNYh
+
+[![](https://discord.com/api/guilds/785656433529716757/widget.png)](https://discord.gg/wkSyupYNYh)
+
 # Letöltés
 ### Vanilla
 
