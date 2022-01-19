@@ -9,8 +9,6 @@ A magyar verzió letölést megtalálod [itt](https://github.com/Ratchet1/GTA-V-
 
 [Discord:](https://discord.gg/wkSyupYNYh) https://discord.gg/wkSyupYNYh
 
-[![](https://discord.com/api/guilds/785656433529716757/widget.png)](https://discord.gg/wkSyupYNYh)
-
 # Letöltés
 ### Vanilla
 
